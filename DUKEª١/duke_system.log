@@ -1,0 +1,12 @@
+Dec 23, 2024 4:19:24 AM DUKEª١ main
+SEVERE: Authentication failed
+javax.security.auth.login.LoginException: No LoginModules configured for DUKEª١Login
+	at java.base/javax.security.auth.login.LoginContext.init(LoginContext.java:269)
+	at java.base/javax.security.auth.login.LoginContext.<init>(LoginContext.java:423)
+	at DUKEª١.main(DUKEª١.java:30)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at jdk.compiler/com.sun.tools.javac.launcher.SourceLauncher.execute(SourceLauncher.java:268)
+	at jdk.compiler/com.sun.tools.javac.launcher.SourceLauncher.run(SourceLauncher.java:153)
+	at jdk.compiler/com.sun.tools.javac.launcher.SourceLauncher.main(SourceLauncher.java:78)
+
