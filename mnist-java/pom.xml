@@ -1,0 +1,29 @@
+<dependencies>
+    <!-- DJL Core -->
+    <dependency>
+        <groupId>ai.djl</groupId>
+        <artifactId>api</artifactId>
+        <version>0.25.0</version>
+    </dependency>
+
+    <!-- DJL TensorFlow Engine -->
+    <dependency>
+        <groupId>ai.djl.tensorflow</groupId>
+        <artifactId>tensorflow-engine</artifactId>
+        <version>0.25.0</version>
+    </dependency>
+
+    <!-- DJL TensorFlow Model-Zoo -->
+    <dependency>
+        <groupId>ai.djl.tensorflow</groupId>
+        <artifactId>tensorflow-model-zoo</artifactId>
+        <version>0.25.0</version>
+    </dependency>
+
+    <!-- Dataset and Image Processing -->
+    <dependency>
+        <groupId>ai.djl.tensorflow</groupId>
+        <artifactId>tensorflow-native-auto</artifactId>
+        <version>2.11.0</version>
+    </dependency>
+</dependencies>

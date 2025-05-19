@@ -1,0 +1,7 @@
+Dec 22, 2024 10:48:11 PM DUKEªڱ main
+SEVERE: Authentication failed
+javax.security.auth.login.LoginException: No LoginModules configured for DUKEªڱLogin
+	at java.base/javax.security.auth.login.LoginContext.init(LoginContext.java:269)
+	at java.base/javax.security.auth.login.LoginContext.<init>(LoginContext.java:423)
+	at DUKEªڱ.main(DUKEªڱ.java:30)
+
